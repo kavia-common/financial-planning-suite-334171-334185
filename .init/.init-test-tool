@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/financial-planning-suite-334171-334185/financial_backend"
+}
